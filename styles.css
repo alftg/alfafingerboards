@@ -1,0 +1,160 @@
+body{
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+.bottom-container{
+  background-color: #231903;
+  padding: 30px 0 10px 0;
+}
+
+.contact-me{
+  padding: 50px 0;
+  background-color: #d1f5d3; 
+}
+
+.deck-img{
+  width: 35%;
+  border-radius:50%;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #d1f5d3;
+}
+
+#deck-img1{
+  float: left;
+  margin-right: 20px;
+
+}
+
+#deck-img2{
+  float: right;
+  margin-left: 20px;
+}
+
+#deck-img3{
+  float: left;
+  margin-right: 20px;
+}
+
+.deck-row{
+  font-size: 1.25rem;
+  line-height: 1.75;
+  margin: 0 auto;
+  width: 50%;
+  padding: 50px 0;
+  text-align: left;
+}
+
+.footer-link{
+  padding: 0 20px;
+  color: #7d5e2a;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+h2{
+  font-size: 2rem;
+  font-family: "Quicksand", cursive;
+  color: #231903;
+}
+
+h3{
+  font-family: "Quicksand", cursive;
+  color: #231903;
+}
+
+.headline{
+  font-family: "Marck Script", cursive;
+  font-size: 5.5rem;
+  padding-top: 40px;
+  margin: 0;
+
+}
+
+hr {
+  width: 200px;
+  border-style: dotted none none none;
+  border-width: 15px;
+  border-color: #40a798;
+}
+
+.logo {
+  width: 100px;
+  border-radius: 10px 60px 10px 60px;
+  border-color: white;
+  border-style: solid;
+  border-width: 10px;
+  float: left;
+  margin: 20px;
+  //position: absolute;
+  left: 40px;
+  top: 40px;
+  bottom: 40px;//
+}
+
+.mid-container{
+background-color: #9dc6a7;
+}
+
+.mid2-container{
+  background-color: #d1f5d3;
+}
+
+.myButton {
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+  margin-top: 25px;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+.par1{
+
+}
+
+.profile-row{
+  padding: 100px 0;
+}
+
+.profile_pic{
+  width: 20%;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #d1f5d3;
+  border-width: 10px;
+
+}
+
+.top{
+width: 55%;
+margin: 0 auto;
+text-align: left;
+padding-bottom: 10px;
+
+
+}
+
+.top-container{
+  background-color: #d1f5d3;
+  color: #231903;
+
+
+}
